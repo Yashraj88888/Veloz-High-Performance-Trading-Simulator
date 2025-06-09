@@ -6,7 +6,8 @@ The entire simulator is built using python and implements:
 2. Logistic Regression (maker/taker)
 3. Gatheral's Non-Linear Market Impact model (market Impact)
 
-   ![Veloz](https://github.com/user-attachments/assets/dbffcca0-c10b-4345-984b-dec9f09e6e99)
+            ![Veloz1](https://github.com/user-attachments/assets/cd327f90-3d23-4cae-8f1c-d4f2dac17940)
+
 
 
 ### File Structure
